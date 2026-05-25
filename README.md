@@ -63,31 +63,6 @@ Optional audio files are referenced in the code but currently commented out:
 - `Falling_putter.ogg`
 - `Collision.ogg`
 
-## How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/jet-dodger.git
-```
-
-2. Move into the project folder:
-
-```bash
-cd jet-dodger
-```
-
-3. Install dependencies:
-
-```bash
-pip install pygame
-```
-
-4. Run the game:
-
-```bash
-python main.py
-```
 
 ## Controls
 
